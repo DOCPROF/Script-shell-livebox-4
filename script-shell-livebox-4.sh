@@ -1,4 +1,4 @@
-# Script de récupération des informations du LIVEBOX4
+# Script de récupération des informations pour LIVEBOX4
 # Pour utiliser ce script vous devez avoir accés aux commandes curl et jq (json query)
 # Il vous suffit de compléter les 2 variables ci-dessous avec vos paramètres
 # J.LASSON - 2019
