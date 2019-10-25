@@ -3,7 +3,9 @@
 ## Description 
 
 Ce script en shell permet de récupérer les informations (toutes ?) d'une LiveBox 4.
+
 Ce script est documenté vous permettant d'effectuer des modifications.
+
 Instanciez les variables dans le script avec vos valeurs.
 
 ## Pré-requis
